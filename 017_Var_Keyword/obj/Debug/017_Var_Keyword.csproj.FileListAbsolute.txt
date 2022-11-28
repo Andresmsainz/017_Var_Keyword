@@ -1,0 +1,7 @@
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\bin\Debug\017_Var_Keyword.exe.config
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\bin\Debug\017_Var_Keyword.exe
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\bin\Debug\017_Var_Keyword.pdb
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\obj\Debug\017_Var_Keyword.csproj.SuggestedBindingRedirects.cache
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\obj\Debug\017_Var_Keyword.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\obj\Debug\017_Var_Keyword.exe
+C:\SRC\CSharp\017_Var_Keyword\017_Var_Keyword\obj\Debug\017_Var_Keyword.pdb
